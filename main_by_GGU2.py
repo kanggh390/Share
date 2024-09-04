@@ -34,6 +34,7 @@ from OCC.Core.V3d import (
     V3d_XnegYnegZneg
 )
 import trimesh
+
 name = "none"
 camera_factors = [V3d_XposYposZpos,
                   V3d_XposYnegZpos,
